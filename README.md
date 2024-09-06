@@ -14,3 +14,6 @@ better_profanity: https://pypi.org/project/better-profanity/
 For step by step instructions in creating a discord bot account see:
 https://discordpy.readthedocs.io/en/stable/discord.html
 https://support-dev.discord.com/hc/en-us/sections/5110493739415-Bots
+
+See Implementation through discord chat history:
+https://discord.gg/QQF5QCDe
